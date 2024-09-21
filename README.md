@@ -22,7 +22,7 @@ Setting up the agent to collect logs: <br/>
 <br />
 <br />
 Install Elastic Agent on Host:  <br/>
-<img src="https://i.imgur.com/rK6lkaU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wOd1N9V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
