@@ -12,7 +12,7 @@ A comprehensive Security Information and Event Management (SIEM) lab set up in a
 
 <h2>Environments Used </h2>
 
-- <b>Kali VM</b> (21H2)
+- <b>Kali VM</b>
 
 <h2>Program walk-through:</h2>
 
