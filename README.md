@@ -17,8 +17,8 @@ A comprehensive Security Information and Event Management (SIEM) lab set up in a
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up the agent to collect logs: <br/>
+<img src="https://i.imgur.com/EO7tCvV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
