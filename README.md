@@ -30,7 +30,10 @@ Succesfull installation: <br/>
 <img src="https://i.imgur.com/mTRrVVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/OrsVIi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
+Generating Security Event on the Kali VM: <br/>
+<img src="https://i.imgur.com/dKnNjgq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <!--
  ```diff
