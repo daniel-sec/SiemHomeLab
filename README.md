@@ -1,7 +1,7 @@
 <h1>Siem Home Lab</h1>
 
 <h2>Description</h2>
-A comprehensive Security Information and Event Management (SIEM) lab set up in a home environment to practice and refine cybersecurity skills. This project simulates real-world network conditions and threats, enabling hands-on experience in log analysis, threat detection, and incident response. It includes various tools like ELK Stack, Security Onion, and custom scripts to monitor and visualize network activities. Perfect for anyone looking to gain practical experience in managing and securing IT environments.
+A comprehensive Security Information and Event Management (SIEM) lab set up in a home environment to practice and refine cybersecurity skills. This project simulates real-world network conditions and threats, enabling hands-on experience in log analysis, threat detection, and incident response. 
 <br />
 
 
