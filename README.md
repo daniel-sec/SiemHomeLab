@@ -26,8 +26,9 @@ Install Elastic Agent on Host:  <br/>
 <img src="https://i.imgur.com/wOd1N9V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Succesfull installation: <br/>
+<img src="https://i.imgur.com/mTRrVVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OrsVIi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
