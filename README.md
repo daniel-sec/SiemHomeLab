@@ -1,4 +1,4 @@
-<h1>Siem Home Lab -- Failed</h1>
+<h1>SIEM Home Lab -- Failed</h1>
 
 <h2>Description</h2>
 A comprehensive Security Information and Event Management (SIEM) lab set up in a home environment to practice and refine cybersecurity skills. This project simulates real-world network conditions and threats, enabling hands-on experience in log analysis, threat detection, and incident response. 
